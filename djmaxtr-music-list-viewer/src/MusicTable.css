@@ -1,0 +1,11 @@
+.MuiTableCell-root {
+  padding: 1px;
+  margin: 1px;
+}
+
+.youtube-disable {
+  color: #999999;
+}
+.youtube-enable {
+  color: #da1725;
+}
